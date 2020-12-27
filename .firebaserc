@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "elad-training",
+    "deplo": "elad-training"
+  }
+}
